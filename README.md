@@ -32,8 +32,8 @@ fallback system(with detailed prompt and planning)
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fact-or-cap.git
-cd fact-or-cap
+git clone [https://github.com/your-username/fact-or-cap.git
+cd fact-or-cap](https://github.com/InsightNav/Guess-is-it-a-Fact-or-a-Cap-Game/tree/main?tab=readme-ov-file)
 ```
 
 ## Install dependencies:
